@@ -75,6 +75,6 @@ Popped----|       |               |     |           |                     |
 
 ### What's Next?
 
-#### A Deep Dive on Operating Systems
+#### The Operating System
 
 By far my favorite learning opportunities from Stanford University have come out of their systems track classes. The course offerings in this track are varied, rigorous, and well organized. Next in this sequence for me is an opportunity to implement a small operating system over the course of a quarter and I can't wait to get started!
