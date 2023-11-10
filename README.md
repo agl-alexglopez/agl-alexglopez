@@ -4,7 +4,7 @@ I'm a former English teacher turned perpetual student of Computer Science and So
 
 ### What's New?
 
-#### Rust and The Command Line
+#### Rust and The Terminal
 
 In my most recent project, [maze-tui](https://github.com/agl-alexglopez/maze-tui), I explored how to stretch the capabilities of the terminal to create beautiful visualizations of common maze building and graph searching algorithms. With the help of [ratatui.rs](https://github.com/ratatui-org), I was able to realize my vision of interesting and unique algorithm visualizations in the somewhat constrained environment of the Terminal User Interface. Also, the maintainers for ratatui.rs were very helpful in guiding me towards best practices with their library in the Discussion section of their repository. Go check them out! Feel free to see the original inspiration for this rust project, the [C++](https://github.com/agl-alexglopez/multithreading-with-mazes) version, that started it all even though it is not as feature-rich as the rust version.
 
