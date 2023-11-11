@@ -1,4 +1,4 @@
-## Hi there, I'm Alex 👋
+## Hi there, I'm Alex 👋🏻
 
 I'm a former English teacher turned perpetual student of Computer Science and Software Engineering.
 
