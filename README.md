@@ -10,7 +10,7 @@ In my most recent project, [maze-tui](https://github.com/agl-alexglopez/maze-tui
 
 ![demo](/images/demo.gif)
 
-Another project on my radar is the [helix-editor](https://github.com/helix-editor/helix). After using Neovim for a few years, I learned of the helix editor project while starting my Rust learning journey. In fact, when I read that helix based their tui library off of the precursor to [ratatui.rs](https://github.com/ratatui-org), [tui.rs](https://github.com/fdehau/tui-rs), I used my [maze-tui](https://github.com/agl-alexglopez/maze-tui) project as an opportunity to learn about what tui development was all about. I'm hooked! I will keep an eye on this project as I continue to use it, looking for opportunities to contribute where I can.
+Another project on my radar is the [helix-editor](https://github.com/helix-editor/helix). After using Neovim for a few years, I learned of the helix editor project while starting my Rust learning journey. In fact, when I read that helix based their tui library off of the precursor to [ratatui.rs](https://github.com/ratatui-org), [tui.rs](https://github.com/fdehau/tui-rs), I used my [maze-tui](https://github.com/agl-alexglopez/maze-tui) project as an opportunity to learn what tui development was all about. I'm hooked! I will keep an eye on this project as I continue to use it, looking for opportunities to contribute where I can.
 
 ## What's Old?
 
