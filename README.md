@@ -28,7 +28,7 @@ With modern C++ practices and languages such as Rust, the direct management of t
 
 ### TCP
 
-In the spring of 2023 I implemented a comprehensive version of the TCP Network protocol bottom to top; starting with the byte stream and ending with a peer to peer connection. The implementation and design principles I learned from the CS144 Stanford Networking course were invaluable. I won the end of quarter competition for most performant Reassembler and my combined ByteStream/Reassembler performance was second behind the course staff! Again, Stanford University requests we keep our solution private, but the repository we worked from is [available publicly every year](https://github.com/CS144/minnow). Feel free to check it out and I'm happy to share my work upon request. Here is a teaser of a TCPReceiver/Reassembler diagram from my writeup on that section of the course.
+In the spring of 2023 I implemented a comprehensive version of the TCP Network protocol bottom to top; starting with the byte stream and ending with a peer to peer connection. The implementation and design principles I learned from the CS144 Stanford Networking course were invaluable. I won the end of quarter competition for most performant Reassembler and my combined ByteStream/Reassembler performance was second behind the course staff! Again, Stanford University requests we keep our solution private, but the repository we worked from is [available publicly every year](https://github.com/CS144). Feel free to check it out and I'm happy to share my work upon request. Here is a teaser of a TCPReceiver/Reassembler diagram from my writeup on that section of the course.
 
 ```txt
                             \     TCPReceiver
