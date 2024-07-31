@@ -6,7 +6,7 @@ I'm a former English teacher turned perpetual student of Computer Science and So
 
 ### The Operating System
 
-I recently finished implementing the well-known [PintOS](https://www.scs.stanford.edu/24wi-cs212/labs/project.html) kernel and operating system. This was a challenging endeavor, especially with some of Stanford University's unique requirements in implementation through the CS212 course offering. From this work I have found a new interest in developing low level libraries to make systems programming, or any programming easier and more pleasant. These projects started as extensions to the base operating system provided libraries and have developed into libraries under active development.
+I recently finished implementing the well-known [PintOS](https://www.scs.stanford.edu/24wi-cs212/labs/project.html) kernel and operating system. This was a challenging endeavor, especially with some of Stanford University's unique requirements in implementation through the CS212 course offering. From this work I have found a new interest in developing low level libraries to make systems programming easier and more pleasant. These projects started as extensions to the base operating system provided libraries and have developed into libraries under active development.
 
 - [`str_view`](https://github.com/agl-alexglopez/str_view) - A string helper library providing read only string handling, searching, and tokenization in C (now available through [vcpkg](https://github.com/microsoft/vcpkg)).
 - [`tree-lib`](https://github.com/agl-alexglopez/tree-lib) - An exploration of different data structures supported by various types of trees. This library will likely expand to encompass a more general suite of data structures with a wide variety of implementations.
