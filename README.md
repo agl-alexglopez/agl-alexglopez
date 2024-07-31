@@ -15,11 +15,9 @@ I recently finished implementing the well-known [PintOS](https://www.scs.stanfor
 
 ### Rust and The Terminal
 
-In my most recent project, [maze-tui](https://github.com/agl-alexglopez/maze-tui), I explored how to stretch the capabilities of the terminal to create beautiful visualizations of common maze building and graph searching algorithms. With the help of [ratatui.rs](https://github.com/ratatui-org), I was able to realize my vision of interesting and unique algorithm visualizations in the somewhat constrained environment of the Terminal User Interface. Also, the maintainers for ratatui.rs were very helpful in guiding me towards best practices with their library in the Discussion section of their repository. Go check them out! Check out the rough draft [C++](https://github.com/agl-alexglopez/multithreading-with-mazes) version that started it all.
+In [maze-tui](https://github.com/agl-alexglopez/maze-tui), I explored how to stretch the capabilities of the terminal to create beautiful visualizations of common maze building and graph searching algorithms. With the help of [ratatui.rs](https://github.com/ratatui-org), I was able to realize my vision of interesting and unique algorithm visualizations in the somewhat constrained environment of the Terminal User Interface. Also, the maintainers for ratatui.rs were very helpful in guiding me towards best practices with their library in the Discussion section of their repository. Go check them out! Check out the rough draft [C++](https://github.com/agl-alexglopez/multithreading-with-mazes) version that started it all.
 
 ![demo](/images/demo.gif)
-
-Another project on my radar is the [helix-editor](https://github.com/helix-editor/helix). After using Neovim for a few years, I learned of the helix editor project while starting my Rust learning journey. In fact, when I read that helix based their tui library off of the precursor to [ratatui.rs](https://github.com/ratatui-org), [tui.rs](https://github.com/fdehau/tui-rs), I used my [maze-tui](https://github.com/agl-alexglopez/maze-tui) project as an opportunity to learn what tui development was all about. I'm hooked! I will keep an eye on this project as I continue to use it, looking for opportunities to contribute where I can.
 
 ### Algorithm Exploration
 
