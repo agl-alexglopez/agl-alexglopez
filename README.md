@@ -25,51 +25,6 @@ I also enjoy exploring new and challenging algorithms and tweaking their core id
 
 ![defense-links](/images/defense-links.png) 
 
-### TCP
-
-In the spring of 2023 I implemented a comprehensive version of the TCP Network protocol bottom to top; starting with the byte stream and ending with a peer to peer connection. The implementation and design principles I learned from the CS144 Stanford Networking course were invaluable. I won the end of quarter competition for most performant Reassembler and my combined ByteStream/Reassembler performance was second behind the course staff! Again, Stanford University requests we keep our solution private, but the repository we worked from is [available publicly every year](https://github.com/CS144). Feel free to check it out and I'm happy to share my work upon request. Here is a teaser of a TCPReceiver/Reassembler diagram from my writeup on that section of the course.
-
-```txt
-                            \     TCPReceiver
-                             \ +-------------------+
-                              \|isn=0              |
-                  +---+-----+                      |
->>>>>>>>>>>>>>>>>>|844|afdgh+>>>>>>>>>>>v          |
-                  +---+-----+           v          |
-                            \  |        v          |
-                             \ |        v          |
-                              \|        v          |
-               +-----+------+           v
-<<<<<<<<<<<<<<<|ackno|window|<<<<<<<<<<<<<<<<<<<<<<<<<<<
-               +-----+------+           v              ^
-                               |        v          |   ^
-                               +-----   v  --------+   ^
-                                        v              ^
-                                 +--------+-----+      ^
-                                 |844+2^32|afdgh|      ^
-             \                   +--------+-----+      ^                       /
-              \                         v              ^                      /
-               \                        v              ^                     /
-                \                                                           /
-                 \                                                         /
-                  |                                                       |-First Unacceptable Index-1000
-                  |                                                       |
-                  | Stored Segments-----------------|                     |
-                  | Next Index Needed---|           |                     |
-                  | Pushed Bytes--|     |           |                     |
-Popped----|       |               |     |           |                     |
-          |       |               |     |           |                     |
-|-----------------|------------------|  |           |                     |
-------------------+------------------+  |        |------------------------|
-;asdkjf;laskjdls  | f8299fsdoiuosid8 |-[844+2^32] |[896+2^32]-->[940+2^32]|
-------------------+------------------+                  8          s
-                                                        a          8
-                                                        y          l
-                                                        8          n
-
-                                                  Reassembler
-```
-
 ## What's Next?
 
 ### Compilers
