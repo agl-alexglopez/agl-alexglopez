@@ -1,9 +1,3 @@
-# Hi there, I'm Alex 👋🏻
-
-I'm a former English teacher turned perpetual student of Computer Science and Software Engineering.
-
-Check out my blog, [here](https://agl-alexglopez.github.io/).
-
 ## What's New?
 
 ### Compilers
