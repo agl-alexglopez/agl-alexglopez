@@ -1,6 +1,6 @@
-# I'm Alex
+# What's Happening
 
-Here's what I've been working on.
+I'm Alex. Here is what's been happening in my coding life.
 
 ## What's New?
 
