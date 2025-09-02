@@ -4,6 +4,12 @@ I'm Alex. Here is what's been happening in my coding life.
 
 ## What's New?
 
+### Zig
+
+After much consideration, I have decided to explore Zig as the foundation for an educational operating system. Starting with Zig as the build system and gradually incorporating it more into the project, I plan to offer a first class modern developer experience with this language capable of mixing C and Zig. To start, I needed to learn the language. To do so I used my tried and true "[Rosetta Stone](https://agl-alexglopez.github.io/2025/08/01/rosetta-stones-and-mazes-the-premise.html)" program, a maze generator and solver.
+
+This time, I incorporated isometric pixel art and [raylib-zig](https://github.com/raylib-zig/raylib-zig) in my [iso-mui](https://github.com/agl-alexglopez/iso-mui) project.
+
 ### Compilers
 
 I implemented the COOL programming language as part of Stanford's CS143 Compilers course. This was a rewarding experience and I have a greater appreciation for the mix of theoretical and technical complexity that goes into the compilation pipeline. Out of respect for the work the course staff puts in to create their compiler framework the work will remain private for now but I am happy to share on request or discuss the compilation pipeline in detail any time.
@@ -23,11 +29,6 @@ In [maze-tui](https://github.com/agl-alexglopez/maze-tui), I explored how to str
 
 ![demo](/images/demo.gif)
 
-### Algorithm Exploration
-
-I also enjoy exploring new and challenging algorithms and tweaking their core ideas to apply to new and interesting problems. That is the focus of [dancing-links](https://github.com/agl-alexglopez/dancing-links) and [dancing-links-and-planning-pokemon](https://github.com/agl-alexglopez/dancing-links-and-planning-pokemon). What started as Stanford University assignments regarding recursion, vertex covers, and independent sets, turned into reworking these ideas to solve computationally difficult problems. This led me to connect Donald Knuth's [Dancing Links](https://en.wikipedia.org/wiki/Dancing_Links) algorithm to a wide variety of cover problems, even applying it to a beloved video game from my childhood. These projects are written in C++ and I am currently working on big changes for [dancing-links-and-planning-pokemon](https://github.com/agl-alexglopez/dancing-links-and-planning-pokemon), using this project as an opportunity to learn about the relatively new WebGPU API and the not so new OpenGL.
-
-![defense-links](/images/defense-links.png) 
 
 ## What's Next?
 
