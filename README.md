@@ -16,13 +16,6 @@ This time, I incorporated isometric pixel art and [raylib-zig](https://github.co
 
 I implemented the COOL programming language as part of Stanford's CS143 Compilers course. This was a rewarding experience and I have a greater appreciation for the mix of theoretical and technical complexity that goes into the compilation pipeline. Out of respect for the work the course staff puts in to create their compiler framework the work will remain private for now but I am happy to share on request or discuss the compilation pipeline in detail any time.
 
-### The Operating System
-
-I recently finished implementing the well-known [PintOS](https://www.scs.stanford.edu/24wi-cs212/labs/project.html) kernel and operating system in C. This was a fun and challenging endeavor, especially with some of Stanford University's unique requirements in implementation through the CS212 course offering. From this work I have found a new interest in developing low level libraries to make systems programming easier and more pleasant. These projects started as extensions to the base operating system provided libraries and have developed into libraries under active development.
-
-- [`str_view`](https://github.com/agl-alexglopez/str_view) - A string helper library providing read only string handling, searching, and tokenization in C (now available through [vcpkg](https://github.com/microsoft/vcpkg)).
-- [`C Container Collection (ccc)`](https://github.com/agl-alexglopez/ccc) - A collection of containers written in C with a focus on memory flexibility and programmer control.
-
 ## What's Old?
 
 ### The Operating System
