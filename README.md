@@ -8,6 +8,8 @@ I'm Alex. Here is what's been happening in my coding life.
 
 After much consideration, I have decided to explore Zig as the foundation for an educational operating system. Starting with Zig as the build system and gradually incorporating it more into the project, I plan to offer a first class modern developer experience with this language capable of mixing C and Zig. To start, I needed to learn the language. To do so I used my tried and true "[Rosetta Stone](https://agl-alexglopez.github.io/2025/08/01/rosetta-stones-and-mazes-the-premise.html)" program, a maze generator and solver.
 
+![wilson-loop](/images/wilson-loop.gif)
+
 This time, I incorporated isometric pixel art and [raylib-zig](https://github.com/raylib-zig/raylib-zig) in my [iso-mui](https://github.com/agl-alexglopez/iso-mui) project.
 
 ### Compilers
