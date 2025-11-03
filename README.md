@@ -10,11 +10,11 @@ I have recently been using [raylib](https://www.raylib.com/) as a tool for model
 
 #### Dancing Links Visualizer
 
-After much consideration, I have finally found the perfect tool to visualize Donald Knuth's Dancing Links algorithm for graph cover problems. I have found a fun application of this type of problem solver for the Pokemon video games.
+After much consideration, I have finally found raylib to be the perfect tool to visualize Donald Knuth's Dancing Links algorithm for graph cover problems. I have found a fun application of this type of problem solver for the Pokemon video games.
 
 ![pokemon-gui](/images/pokemon-gui.png)
 
-Please read my [blog](https://agl-alexglopez.github.io/2025/08/07/the-pok%C3%A9mon-graph-cover-problem.html) post on this topic for more details on how we can model Pokemon type interactions as a graph cover problem.
+Please read my [blog](https://agl-alexglopez.github.io/2025/08/07/the-pok%C3%A9mon-graph-cover-problem.html) post on this topic for more details on how we can model Pokemon type interactions as a graph cover problem. Check out [dancing-links-and-planning-pokemon](https://github.com/agl-alexglopez/dancing-links-and-planning-pokemon) and use the GUI application!
 
 #### Zig
 
