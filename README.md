@@ -4,7 +4,17 @@ I'm Alex. Here is what's been happening in my coding life.
 
 ## What's New?
 
-### Zig
+### Raylib
+
+#### Dancing Links Visualizer
+
+After much consideration, I have finally found the perfect tool to visualize Donald Knuth's Dancing Links algorithm for graph cover problems. I have found a fun application of this type of problem solver for the Pokemon video games.
+
+![pokemon-gui](/images/pokemon-gui.png)
+
+Please read my [blog](https://agl-alexglopez.github.io/2025/08/07/the-pok%C3%A9mon-graph-cover-problem.html) post on this topic for more details on how we can model Pokemon type interactions as a graph cover problem.
+
+#### Zig
 
 After much consideration, I have decided to explore Zig as the foundation for an educational operating system. Starting with Zig as the build system and gradually incorporating it more into the project, I plan to offer a first class modern developer experience with this language capable of mixing C and Zig. To start, I needed to learn the language. To do so I used my tried and true "[Rosetta Stone](https://agl-alexglopez.github.io/2025/08/01/rosetta-stones-and-mazes-the-premise.html)" program, a maze generator and solver.
 
