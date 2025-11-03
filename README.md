@@ -6,6 +6,8 @@ I'm Alex. Here is what's been happening in my coding life.
 
 ### Raylib
 
+I have recently been using [raylib](https://www.raylib.com/) as a tool for modeling interesting problems or learning new concepts. Specifically, I have found it to be a great tool to explore algorithms or spin up a fun application while learning a new programming language.
+
 #### Dancing Links Visualizer
 
 After much consideration, I have finally found the perfect tool to visualize Donald Knuth's Dancing Links algorithm for graph cover problems. I have found a fun application of this type of problem solver for the Pokemon video games.
