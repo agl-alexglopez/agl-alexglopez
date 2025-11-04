@@ -10,7 +10,7 @@ I have recently been using [raylib](https://www.raylib.com/) as a tool for model
 
 #### Dancing Links Visualizer
 
-After much consideration, I have finally found raylib to be the perfect tool to visualize Donald Knuth's Dancing Links algorithm for graph cover problems. I have found a fun application of this type of problem solver for the Pokemon video games.
+After revisiting this old project, I have found raylib to be the perfect tool to visualize Donald Knuth's Dancing Links algorithm for graph cover problems. I have found a fun application of this type of problem solver for the Pokemon video games.
 
 ![pokemon-gui](/images/pokemon-gui.png)
 
