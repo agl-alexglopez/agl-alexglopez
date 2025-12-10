@@ -39,6 +39,6 @@ I recently finished implementing the well-known [PintOS](https://www.scs.stanfor
 
 ## What's Next?
 
-After completing the PintOS projects I have many ideas for how educational operating systems can be improved. Check the [SkeletOSS][https://github.com/skeletoss] organization for updates on my work towards implementing an operating system scaffolding similar to PintOS or xv6 for learners wanting to enter the field of operating systems. It has begun with my work on the [`C Container Collection (ccc)`](https://github.com/agl-alexglopez/ccc), the data structure framework I hope to have at the core of the OS.
+After completing the PintOS projects I have many ideas for how educational operating systems can be improved. Check the [SkeletOSS](https://github.com/skeletoss) organization for updates on my work towards implementing an operating system scaffolding similar to PintOS or xv6 for learners wanting to enter the field of operating systems. It has begun with my work on the [`C Container Collection (ccc)`](https://github.com/agl-alexglopez/ccc), the data structure framework I hope to have at the core of the OS.
 
 I am also now interested in making this project compatible with both Zig and C. Stay tuned for updates.
