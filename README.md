@@ -34,11 +34,11 @@ I implemented the COOL programming language as part of Stanford's CS143 Compiler
 
 I recently finished implementing the well-known [PintOS](https://www.scs.stanford.edu/24wi-cs212/labs/project.html) kernel and operating system in C. This was a fun and challenging endeavor, especially with some of Stanford University's unique requirements in implementation through the CS212 course offering. From this work I have found a new interest in developing low level libraries to make systems programming easier and more pleasant. These projects started as extensions to the base operating system provided libraries and have developed into libraries under active development.
 
-- [`str_view`](https://github.com/agl-alexglopez/str_view) - A string helper library providing read only string handling, searching, and tokenization in C (now available through [vcpkg](https://github.com/microsoft/vcpkg)).
+- [`str_view`](https://github.com/skeletoss/str_view) - A string helper library providing read only string handling, searching, and tokenization in C.
 - [`C Container Collection (ccc)`](https://github.com/agl-alexglopez/ccc) - A collection of containers written in C with a focus on memory flexibility and programmer control.
 
 ## What's Next?
 
-After completing the PintOS projects I have many ideas for how educational operating systems can be improved. Check here for updates on my work towards implementing an operating system scaffolding similar to PintOS or xv6 for learners wanting to enter the field of operating systems. It has begun with my work on the [`C Container Collection (ccc)`](https://github.com/agl-alexglopez/ccc), the data structure framework I hope to have at the core of the OS.
+After completing the PintOS projects I have many ideas for how educational operating systems can be improved. Check the [SkeletOSS][https://github.com/skeletoss] organization for updates on my work towards implementing an operating system scaffolding similar to PintOS or xv6 for learners wanting to enter the field of operating systems. It has begun with my work on the [`C Container Collection (ccc)`](https://github.com/agl-alexglopez/ccc), the data structure framework I hope to have at the core of the OS.
 
 I am also now interested in making this project compatible with both Zig and C. Stay tuned for updates.
